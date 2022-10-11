@@ -2,8 +2,8 @@
 
 Para dependência do Swagger utilizei:
 
-<dependency>
-	<groupId>org.springdoc</groupId>
-	<artifactId>springdoc-openapi-ui</artifactId>
-	<version>1.6.11</version>
-</dependency>
+	<dependency>
+		<groupId>org.springdoc</groupId>
+		<artifactId>springdoc-openapi-ui</artifactId>
+		<version>1.6.11</version>
+	</dependency>
